@@ -1,0 +1,16 @@
+/* .carousel-caption {
+  background: rgba(0, 0, 0, 0.5); 
+  top: 20px;
+  bottom: auto; 
+  padding: 5px;
+} */
+
+.top-caption {
+  top: 20px; /* Adjust the top position to your desired value */
+  bottom: auto; /* Disable the bottom position */
+}
+
+.background-caption {
+  background: rgba(0, 0, 0, 0.2); /* Add a semi-transparent background */
+  padding: 3px; /* Optional: Add padding to the caption */
+}

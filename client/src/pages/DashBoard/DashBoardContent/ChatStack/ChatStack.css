@@ -1,0 +1,5 @@
+.list-group-item {
+  /* border: none; */
+  margin-top: 1px;    /* Reduce top margin */
+  margin-bottom: 1px; /*Reduce bottom margin*/
+}
