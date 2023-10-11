@@ -90,14 +90,14 @@ export default function Nav() {
               </Typography>
             </Stack>
             <Stack direction="row">
-              {token ? (
+              {/* {token ? ( */}
                 <Link to="/homepage/dashboard">
                   <MyButton variant="text" fontWeight={700}>
                     dashboard
                   </MyButton>
                 </Link>
-              ) : (
-                <SignUpDialog>
+              
+                {/* <SignUpDialog>
                   <MyButton
                     variant="outlined"
                     bgcolor={grey[500]}
@@ -105,8 +105,8 @@ export default function Nav() {
                   >
                     Sign up
                   </MyButton>
-                </SignUpDialog>
-              )}
+                </SignUpDialog> */}
+              
 
               <MyButton href="/#explore" variant="text" fontWeight={700}>
                 Explore
