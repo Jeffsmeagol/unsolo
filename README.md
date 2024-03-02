@@ -19,7 +19,7 @@ Backend:Java/Springboot to handle user authentication, data storage with a datab
 
 Installation
 
-Clone this repository: git clone https://github.com/your-username/TravelMatch.git
+Clone this repository: git clone [https://github.com/Jeffsmeagol/unsolo.git]
 Install dependencies: npm install (or yarn install)
 Running the Application
 
